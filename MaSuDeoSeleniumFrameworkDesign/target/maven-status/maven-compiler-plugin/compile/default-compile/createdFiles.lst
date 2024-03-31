@@ -1,0 +1,8 @@
+pageObject\masudeokarwork\SeleniumFrameworkDesign\ConfiramationPage.class
+abstractComponent\masudeokarwork\AbstractComponents.class
+pageObject\masudeokarwork\SeleniumFrameworkDesign\CartPage.class
+pageObject\masudeokarwork\SeleniumFrameworkDesign\CheckOutPage.class
+pageObject\masudeokarwork\SeleniumFrameworkDesign\OrderPage.class
+pageObject\masudeokarwork\SeleniumFrameworkDesign\ProductCatalog.class
+pageObject\masudeokarwork\SeleniumFrameworkDesign\LandingPage.class
+pageObject\masudeokarwork\SeleniumFrameworkDesign\StandingPage.class
